@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202009216139",
+    "project_id": "ludo-fantacy-2841f",
+    "storage_bucket": "ludo-fantacy-2841f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202009216139:android:d38470073d90fc199e808e",
+        "android_client_info": {
+          "package_name": "com.codezon.ludofantacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202009216139-k0msbijd1aktg241tqcs49vhrlg27iet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRF7xO0X-mz76kTxa3SeAvJ6a6ifgw-ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202009216139-k0msbijd1aktg241tqcs49vhrlg27iet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
